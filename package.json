@@ -17,6 +17,6 @@
   "homepage": "https://github.com/renovate-inherit-config-encrypted-repro/test-repository#readme",
   "description": "",
   "dependencies": {
-    "aws-cdk": "2.1001.0"
+    "aws-cdk": "2.1017.0"
   }
 }
