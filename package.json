@@ -1,0 +1,22 @@
+{
+  "name": "test-repository",
+  "version": "1.0.0",
+  "main": "renovate-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renovate-inherit-config-encrypted-repro/test-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renovate-inherit-config-encrypted-repro/test-repository/issues"
+  },
+  "homepage": "https://github.com/renovate-inherit-config-encrypted-repro/test-repository#readme",
+  "description": "",
+  "dependencies": {
+    "aws-cdk": "2.1001.0"
+  }
+}
